@@ -1,4 +1,6 @@
 # Henrik Engqvist - Game Programmer
+#### [Portfolio](http://www.engqvist.org/)
+
 #### Skills 
 - **Programming languages:**
   - C++
